@@ -18,15 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Site title"
+title: "From the land of the Golden Fleece"
 email: "crsid@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
-baseurl: "/reponame" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  "This exhibition is the first showing in Britain of spectacular tomb treasures
+  from the Republic of Georgia, known in ancient classical times as Colchis and
+  familiar to every schoolchild as the land to which the Greek hero Jason led
+  the Argonauts in search of the Golden Fleece."
+baseurl: "/golden-fleece" # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-
+background: "/images/vani_museum.jpg"
 # Build settings
 plugins:
   - jekyll-feed
@@ -43,14 +46,22 @@ plugins:
 collections:
    exhibition:
       output: true
-   about:
+      permalink: /:collection/:name/
+   explore:
       output: true
+      permalink: /:collection/:name/
+   objects:
+      output: true
+      permalink: /:collection/:name/
    resources:
       output: true
+      permalink: /:collection/:name/
    team:
       output: true
+      permalink: /:collection/:name/
    blog:
       output: true
+      permalink: /:collection/:name/
 feed:
   collections:
     - blog

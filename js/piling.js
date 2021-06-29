@@ -4,11 +4,10 @@ $(document).ready(function() {
     */
     $('#pagepiling').pagepiling({
       menu: '#menu',
-      verticalCentered: true,
-      anchors: ['introduction', 'sponsors'],
+      anchors: ['introduction', 'background', 'map-stan', 'details'],
       navigation: {
         'position': 'right',
-        'tooltips': ['Introduction', 'Sponsors']
+        'tooltips': ['Introduction', 'Background', 'Map', 'Details']
       },
       afterRender: function(){
         $('#pp-nav').addClass('custom');
@@ -22,6 +21,3 @@ $(document).ready(function() {
       }
     });
   });
-  const button = document.querySelector("#button");
-  const icon = document.querySelector("#button > i");
-  const audio = document.querySelector("audio");
