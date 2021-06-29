@@ -2,7 +2,7 @@
 title: Metal working
 layout: default
 permalink: /explore/metal-working
-image: /images/explore/grave24_colour2.jpg
+image: /images/explore/078a.jpeg
 ---
 
 In antiquity, Colchis was described by commentators as “rich in gold” (πολύχρυσος), a label long thought to have been due to the wealth of gold mines in the area. However, the excavations of ancient Colchian sites (especially Vani) have brought to light many beautifully-wrought examples of the goldsmith’s art that have challenged previous views, and show that ancient Colchis was rich in craftsmanship as well as raw materials.

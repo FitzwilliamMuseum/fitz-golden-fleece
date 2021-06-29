@@ -2,7 +2,7 @@
 title: Ritual
 layout: default
 permalink: /explore/ritual
-image: /images/explore/grave24_colour2.jpg
+image: /images/explore/136.jpeg
 ---
 
 Archaeological evidence suggests that Vani was most founded in about the 8th century BC and had become an administrative capital by the 4th century BC. However, in the 3rd century its inhabitants moved outside the city walls and Vani seems to have been transformed into a sanctuary city. This dramatic change in character is attested by the total absence of residential buildings from this period and by the construction of several new cult complexes and sanctuaries.

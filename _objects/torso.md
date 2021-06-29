@@ -8,12 +8,9 @@ image: /images/explore/052.jpeg
 ### Vani, 2nd century BC, GNM: 2:996-43
 {: .lead .display-4 .text-info }
 
-Excavated in 1988, this stunning bronze torso was discovered along with small fragments of other bronze statuary on Vani’s central terrace. All of this statuary seems to have been deliberately destroyed when the city was sacked in the middle of the 1st century BC. The statue’s precise date of manufacture is difficult to determine. Given the history of the site, however, a date in the flourishing 2nd century BC seems most likely.
+{% include structure/figure.html %}
 
-<figure class="figure float-right">
-  <img src="{{site.baseurl}}/images/explore/052.jpeg" alt="photo of sculpture entitled Torso of a Youth"/>
-  <figcaption class="fig-caption">Sculpture entitled Torso of a Youth</figcaption>
-</figure>
+Excavated in 1988, this stunning bronze torso was discovered along with small fragments of other bronze statuary on Vani’s central terrace. All of this statuary seems to have been deliberately destroyed when the city was sacked in the middle of the 1st century BC. The statue’s precise date of manufacture is difficult to determine. Given the history of the site, however, a date in the flourishing 2nd century BC seems most likely.
 
 The torso shows a well-proportioned youth in Early Classical style. In the Greek world, statuary of this type was used to honour victorious athletes. Here, its purpose remains unclear. The extraordinary attention paid to the rendering of the physique, combined with its slightly stiff pose, recalls famous Greek works dating to about 490–460 BC, such as the famous marble statue from the Athenian Acropolis known as the Kritios Boy.
 
