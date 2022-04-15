@@ -1,5 +1,7 @@
 # Land of the Golden Fleece
 
+[![DOI](https://zenodo.org/badge/381139029.svg)](https://zenodo.org/badge/latestdoi/381139029)
+
 This online exhibition features a collection of recently excavated finds from Vani, a major Colchian city. This collection was put together by the Georgian National Museum with help from ISAW (The Institute for the Study of the Ancient World) in New York.
 
 ![Golden fleece social card](/images/goldenFleece.jpg)
